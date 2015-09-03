@@ -12,6 +12,7 @@
 
 //#include "dungeonHeader.h"
 
+
 using namespace std;
 const int NY = 160;//80;//160; //width
 const int NX = 96;// 48;//96; //height
